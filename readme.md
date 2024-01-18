@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
    npm run serve
    ```
 
-   The application will be accessible at [http://localhost:3000](http://localhost:3000).
+   The application will be accessible at [http://localhost:4000](http://localhost:4000).
 
 ### Running with Docker
 
